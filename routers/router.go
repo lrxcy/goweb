@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"mgweb/controllers"
+	"goweb/controllers"
 
 	"github.com/astaxie/beego"
 )

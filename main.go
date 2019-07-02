@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "mgweb/routers"
+	_ "goweb/routers"
 
 	"github.com/astaxie/beego"
 )

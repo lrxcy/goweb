@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"encoding/json"
-	"mgweb/models"
+	"goweb/models"
 	"strconv"
 
 	"github.com/astaxie/beego"

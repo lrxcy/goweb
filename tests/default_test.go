@@ -1,7 +1,7 @@
 package test
 
 import (
-	_ "mgweb/routers"
+	_ "goweb/routers"
 	"net/http"
 	"net/http/httptest"
 	"path/filepath"

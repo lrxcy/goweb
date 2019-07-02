@@ -3,7 +3,7 @@ package controllers
 import (
 	"github.com/astaxie/beego"
 
-	"mgweb/models"
+	"goweb/models"
 	"strings"
 	//"fmt"
 )
